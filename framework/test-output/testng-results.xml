@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6132" started-at="2019-01-25T01:34:19Z" finished-at="2019-01-25T01:34:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6132" started-at="2019-01-25T01:34:19Z" finished-at="2019-01-25T01:34:25Z">
+      <class name="framework.Tc002">
+        <test-method status="PASS" signature="driver()[pri:0, instance:framework.Tc002@ae45eb6]" name="driver" duration-ms="6108" started-at="2019-01-25T07:04:19Z" finished-at="2019-01-25T07:04:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driver -->
+      </class> <!-- framework.Tc002 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
